@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1024ent)](https://github.com/anuraghazra1024ent/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1024ent&show_icons=true)](https://github.com/anuraghazra1024ent/github-readme-stats)
 
 <!--
 **1024ent/1024ent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
