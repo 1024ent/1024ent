@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img alt="my stat" align="left" width="66%" src="https://github-readme-stats.vercel.app/api?username=1024ent&show_icons=true&theme=highcontrast"/>
+<img alt="my stat" align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=1024ent&show_icons=true&theme=highcontrast"/>
 <img alt="top align" align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1024ent&theme=highcontrast"/>
 
 <!--
