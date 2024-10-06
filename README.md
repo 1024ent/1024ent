@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img alt="my stat" src="https://github-readme-stats.vercel.app/api?username=1024ent&show_icons=true)"/>
+<img alt="my stat" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=1024ent&show_icons=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1024ent)](https://github.com/1024ent/github-readme-stats)
+<img alt="top align" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1024ent"/>
 
 <!--
 **1024ent/1024ent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
